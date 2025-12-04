@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "version_code": 3,
+  "version": "1.0.0",
+  "version_code": 1,
   "force_update": false,
   "apk_url": "https://github.com/avijitbarua/app_version/releases/download/smartbabypad/smartbabypad.apk",
   "apk_sha256": "deca04cb02ee2ea81e4bb17379efaba710309cc197ce4302766cc26bfd8d6642",
